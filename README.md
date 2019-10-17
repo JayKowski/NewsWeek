@@ -16,10 +16,10 @@ it was built by <a href="https://github.com/JayKowski">Judah Maina</a>.
 
 ## Screenshots
 The following links are of screenshots of the webpage made by the developer aforementioned:</br>
-<a href="images/Newsweek screens/1.png">Screenshot 1</a></br>
-<a href="images/Newsweek screens/2.png">Screenshot 2</a></br>
-<a href="images/Newsweek screens/3.png">Screenshot 3</a></br>
-<a href="images/Newsweek screens/4.png">Screenshot 4</a></br>
+<a href="images/screenshots/1.png">Screenshot 1</a></br>
+<a href="images/screenshots/2.png">Screenshot 2</a></br>
+<a href="images/screenshots/3.png">Screenshot 3</a></br>
+<a href="images/screenshots/4.png">Screenshot 4</a></br>
 
 ## Technologies
 * HTML5
