@@ -16,17 +16,17 @@ it was built by <a href="https://github.com/JayKowski">Judah Maina</a>.
 
 ## Screenshots
 The following links are of screenshots of the webpage made by the developer aforementioned:</br>
-screenshot 1: <a href="images/Newsweek screens/1.png">Screenshot 1</a></br>
-screenshot 1: <a href="images/Newsweek screens/2.png">Screenshot 2</a></br>
-screenshot 1: <a href="images/Newsweek screens/3.png">Screenshot 3</a></br>
-screenshot 1: <a href="images/Newsweek screens/4.png">Screenshot 4</a></br>
+<a href="images/Newsweek screens/1.png">Screenshot 1</a></br>
+<a href="images/Newsweek screens/2.png">Screenshot 2</a></br>
+<a href="images/Newsweek screens/3.png">Screenshot 3</a></br>
+<a href="images/Newsweek screens/4.png">Screenshot 4</a></br>
 
 ## Technologies
 * HTML5
 * CSS3
 
 ## live preview
-Here is a [@"live preview"](https://raw.githack.com/JayKowski/NewsWeek/newsWeek/index.html) of the webpage
+Here is a ["live preview"](https://raw.githack.com/JayKowski/NewsWeek/newsWeek/index.html) of the webpage
 
 ## Status
 The project is complete as uploaded.
