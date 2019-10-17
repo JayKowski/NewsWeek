@@ -1,4 +1,4 @@
-# old-apple-website
+# News-Week
 This is the clone of a news website known as "News Week"
 
 ## Table of contents
