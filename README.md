@@ -25,4 +25,4 @@ Here is a ["live preview"](https://raw.githack.com/JayKowski/NewsWeek/newsWeek/i
 The project is complete as uploaded.
 
 ## Contact
-Created by [@Judah Maina](https://github.com/JayKowski) - feel free to reach out!
+Created by [@Judah Maina](https://github.com/JayKowski) - feel free to check out my GitHub Profile!
