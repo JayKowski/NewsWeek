@@ -3,7 +3,6 @@ This is the clone of a news website known as "News Week"
 
 ## Table of contents
 * [General](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Live preview](#live-preview)
 * [Status](#status)
@@ -14,12 +13,6 @@ This project was build as a clone of the <a href="https://www.newsweek.com/" >Ne
 it was built for learning purposes on the topic of learning how to use CSS frameworks, in this case, Bootstrap was used.
 it was built by <a href="https://github.com/JayKowski">Judah Maina</a>.
 
-## Screenshots
-The following links are of screenshots of the webpage made by the developer aforementioned:</br>
-<a href="images/screenshots/1.png">Screenshot 1</a></br>
-<a href="images/screenshots/2.png">Screenshot 2</a></br>
-<a href="images/screenshots/3.png">Screenshot 3</a></br>
-<a href="images/screenshots/4.png">Screenshot 4</a></br>
 
 ## Technologies
 * HTML5
