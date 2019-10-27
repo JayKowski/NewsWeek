@@ -19,7 +19,7 @@ it was built by <a href="https://github.com/JayKowski">Judah Maina</a>.
 * CSS3
 
 ## live preview
-Here is a ["live preview"](https://raw.githack.com/JayKowski/NewsWeek/newsWeek/index.html) of the webpage
+Here is a ["live preview"](https://raw.githack.com/JayKowski/NewsWeek/master/index.html) of the webpage
 
 ## Status
 The project is complete as uploaded.
